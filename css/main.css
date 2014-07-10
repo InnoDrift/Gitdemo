@@ -1,0 +1,22 @@
+body, html {
+  height: 100%;
+  width: 100%;
+}
+h2 {
+font-size: 50px;
+text-align: center;
+}
+.divDemo1 {
+    width: 100%;
+    height: 100%;
+    background-color: #FFFFFF;
+    margin-top: 25%;
+}
+.divDemo2 {
+}
+.demo1 {
+    color: #000000;
+}
+.demo2 {
+    color: #FFFFFF;
+}
